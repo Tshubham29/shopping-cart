@@ -18,7 +18,7 @@ cd shopping-cart-backend
 cd shopping-cart-frontend
 ### 2. Install dependency
 npm install
-### 3. Start Backend server port:5000
+### 3. Start Backend server port:3001
 npm start
 ### 4. Start frontend server port:3000
 npm start
